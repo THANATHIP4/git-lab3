@@ -1,5 +1,4 @@
 <?php
-    echo"Menu";
-    echo"Product";
-    echo"mahanakorn";
+    echo"Menu"
+    echo"Product"
 ?>
